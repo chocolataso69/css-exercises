@@ -1,0 +1,21 @@
+.odd_number_1,
+.odd_number_3,
+.odd_number_5{
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: #ff69b4;
+}
+
+#number_2{
+    color: #4169e1;
+    font-size: 36px;
+}
+
+.odd_number_3{
+    font-size: 24px;
+}
+
+#number_4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
