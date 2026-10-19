@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one-id{
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler-class{
+    font-size: 24px;
+}
+
+#another-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
